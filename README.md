@@ -1,17 +1,44 @@
-# Exercícios de HTML e CSS - Curso Gustavo Guanabara
+# Curso em vídeo **HTML & CSS** 
 
-## Descrição
 
-Este repositório contém os exercícios realizados durante o curso de HTML e CSS ministrado por Gustavo Guanabara. Os exercícios cobrem uma variedade de tópicos relacionados ao desenvolvimento front-end, desde conceitos básicos até técnicas mais avançadas.
+Repositório para armazenar exercícios do curso de HTML & CSS da plataforma Curso em vídeo com o professor Gustavo Guanabara. 👩🏾‍💻                             
+
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estrutura e conteúdo das páginas.
-- **CSS**: Estilo e layout das páginas.
-- **Outras Tecnologias**: Qualquer outra tecnologia ou ferramenta utilizada nos exercícios.
-
-## Contribuição
-
-Atualmente, este repositório é destinado ao armazenamento dos exercícios individuais. Se você tiver sugestões ou feedback sobre os exercícios, por favor, entre em contato.
+| Tecnologias | Ícones |
+|-------------|--------|
+| HTML5       | ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS3        | ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) |
+| JavaScript  | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
 
 
+### Principais tópicos abordados no curso 
+#### Introdução ao HTML e CSS
+- História da web e primeiros passos com HTML5.
+- Estrutura básica de uma página web.
+- Inserção e formatação de textos e listas.
+- Criação de links.
+#### Trabalhando com Imagens e Mídias
+- Como adicionar imagens, vídeos e áudios.
+- Introdução ao CSS e como estilizar páginas.
+- Cores, fontes, e imagens de fundo.
+#### Layout e Estruturação
+- Conceito de caixa (box model).
+- Posicionamento de elementos na página.
+- Criação de layouts usando CSS.
+#### Formulários e Elementos Interativos
+- Criação de formulários simples.
+- Validação de campos de entrada.
+- Estilos para botões e interatividade.
+#### Publicação e SEO 
+- Melhores práticas para SEO.
+- Publicação de sites na web (básico de hospedagem).
+#### Projeto Final
+- Desenvolvimento de um site completo aplicando os conceitos aprendidos.
+
+## 🔗Links do Curso em Vídeo
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/cursoemvideo)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.cursoemvideo.com/)
