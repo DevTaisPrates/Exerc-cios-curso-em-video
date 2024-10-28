@@ -8,17 +8,21 @@
 <body>
     <h1>Inserindo vídeos localmente</h1>
     <p>Este vídeo está hospedado no meu próprtio servidor.</p>
-    <video src="midia/3042473-uhd_3840_2160_30fps.mp4" width="1000" controls poster="imagem/PREVIEW - This is how it will look like!.png">Dog no espelho.</video>
+    <video src="midia/3042473-uhd_3840_2160_30fps.mp4" width="560" controls poster="imagem/PREVIEW - This is how it will look like!.png">Dog no espelho.</video>
 
-    // O código abaixo é um exemplo de como adicionar vídeos com diferentes formatos, pois cada navegador tem suas particularidades, e por isso é essencial  ter mais de uma opção da mesma mídia.
-    <video>
-        
+    <!-- O código abaixo é um exemplo de como adicionar vídeos com diferentes formatos, pois cada navegador tem suas particularidades, e por isso é essencial  ter mais de uma opção da mesma mídia.-->
+    <video> 
         <source src="video/mp4" type="video/mp4">
         <source src="video/m4v" type="video/mp4">
         <source src="video/webm" type="video/webm">
         <source src="video/ogg" type="video/ogg">
-
+        <p>Seu navegador não tem compatíbilidade com reprodução de vídeos.</p>
     </video>
 
+    <h1>Inserindo vídeos do <em>You Tube</em> </h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1lo-8UWhVcg?si=r2iCOoXlH0THDv5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <h1>Inserindo vídeos do <em>Vimeo</em></h1>
+    <iframe src="https://player.vimeo.com/video/278479808?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Dog"></iframe>
 </body>
 </html>
